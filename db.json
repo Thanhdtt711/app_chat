@@ -1,0 +1,44 @@
+{
+  "chat": [
+    {
+      "id": 1,
+      "name": "Máy",
+      "chat": "Lô"
+    },
+    {
+      "name": "Người",
+      "chat": "Lô",
+      "id": 2
+    },
+    {
+      "name": "Máy",
+      "chat": "Tôi là máy",
+      "id": 3
+    },
+    {
+      "name": "Người",
+      "chat": "Tôi là Người",
+      "id": 4
+    },
+    {
+      "name": "Máy",
+      "chat": "Đánh nhau không",
+      "id": 5
+    },
+    {
+      "name": "Người",
+      "chat": "Mày biết bố mày là ai không",
+      "id": 6
+    },
+    {
+      "name": "Máy",
+      "chat": "Từ bé đến giờ chưa gặp thằng nào như này",
+      "id": 7
+    },
+    {
+      "name": "Người",
+      "chat": "đánh chết cha mày giờ",
+      "id": 8
+    }
+  ]
+}
